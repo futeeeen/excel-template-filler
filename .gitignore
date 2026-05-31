@@ -1,0 +1,13 @@
+.venv/
+build/
+dist/
+build_package_examples/
+__pycache__/
+*.py[cod]
+*.spec
+~$*.xlsx
+*.log
+examples/CR*.xlsx
+examples/D54_63*.xlsx
+examples/NVBK_BX-XXX FSD*.xlsx
+examples/NVBK_FSD_BX-XXX FSD*.xlsx
